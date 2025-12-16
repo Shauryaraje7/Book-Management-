@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+fastapi[standard]
+pydantic
+asyncpg
+python-dotenv
+sqlalchemy
+psycopg2-binary
+sqlmodel
+pydantic-settings
+sqlalchemy[asyncio]
+sqlmodel[asyncio]
+alembic
+passlib
+pyjwt
+redis
